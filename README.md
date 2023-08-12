@@ -47,7 +47,7 @@ PE는 Portable Executable의 약어로, Windows 운영체제에서 사용되는 
 
 </br>
 
-### 실행 결과
+### Parsing
 
 ```text
 ------ DOS HEADER ------
